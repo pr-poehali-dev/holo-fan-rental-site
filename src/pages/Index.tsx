@@ -10,7 +10,7 @@ const Index = () => {
   const featuredProducts = [
     {
       id: "1",
-      title: "ГолоФан X50 Pro",
+      title: "СИМСИТИ X50 Pro",
       description: "Премиальный голографический вентилятор для бизнес-презентаций",
       image: "/placeholder.svg",
       price: 1500,
@@ -18,14 +18,14 @@ const Index = () => {
     },
     {
       id: "2",
-      title: "ГолоФан EDU-30",
+      title: "СИМСИТИ EDU-30",
       description: "Идеальное решение для образовательных целей и учебных проектов",
       image: "/placeholder.svg",
       price: 900,
     },
     {
       id: "3",
-      title: "ГолоФан Cube",
+      title: "СИМСИТИ Cube",
       description: "Куб из 6 голографических дисплеев для объемных проекций",
       image: "/placeholder.svg",
       price: 2500,
@@ -199,7 +199,7 @@ const Index = () => {
             <div className="max-w-xs">
               <div className="flex items-center gap-2 mb-4">
                 <span className="h-6 w-6 rounded-full bg-holofan-purple"></span>
-                <span className="text-xl font-bold text-white">ГолоФан</span>
+                <span className="text-xl font-bold text-white">СИМСИТИ</span>
               </div>
               <p className="text-sm">
                 Аренда голографических вентиляторов для впечатляющих 3D презентаций и проектов
@@ -228,7 +228,7 @@ const Index = () => {
               <div>
                 <h4 className="font-medium text-white mb-4">Контакты</h4>
                 <ul className="space-y-2 text-sm">
-                  <li>info@holofan.ru</li>
+                  <li>info@simcity.ru</li>
                   <li>+7 (800) 123-45-67</li>
                   <li>г. Москва, ул. Примерная, 123</li>
                 </ul>
@@ -237,7 +237,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-gray-800 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm">© 2023 ГолоФан. Все права защищены.</p>
+            <p className="text-sm">© 2023 СИМСИТИ. Все права защищены.</p>
             <div className="flex gap-4">
               <a href="#" className="text-gray-400 hover:text-white">
                 Политика конфиденциальности

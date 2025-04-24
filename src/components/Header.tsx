@@ -17,7 +17,7 @@ const Header = () => {
           <Link to="/" className="flex items-center gap-2">
             <span className="h-8 w-8 rounded-full bg-holofan-purple animate-pulse-glow"></span>
             <span className="text-xl font-bold bg-gradient-to-r from-holofan-purple to-holofan-blue bg-clip-text text-transparent">
-              ГолоФан
+              СИМСИТИ
             </span>
           </Link>
         </div>
