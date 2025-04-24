@@ -46,7 +46,7 @@ const Index = () => {
                 Аренда <span className="text-gradient">голографических</span> вентиляторов
               </h1>
               <p className="text-lg text-muted-foreground">
-                Создавайте впечатляющие 3D презентации для учебы и бизнеса без покупки дорогостоящего оборудования
+                Создавайте 5D атмосферу для учебы и бизнеса без покупки дорогостоящего оборудования
               </p>
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
                 <Button size="lg" className="gap-2">
@@ -62,9 +62,9 @@ const Index = () => {
               <div className="relative w-full max-w-md">
                 <div className="w-72 h-72 md:w-80 md:h-80 rounded-full bg-gradient-to-r from-holofan-purple to-holofan-blue opacity-20 blur-3xl absolute -z-10 animate-pulse-glow"></div>
                 <img 
-                  src="/placeholder.svg" 
-                  alt="Голографический вентилятор" 
-                  className="w-full max-w-md object-contain animate-float" 
+                  src="https://cdn.poehali.dev/files/bc5126d9-7298-4d08-8a64-a8e523fbecd0.jpg" 
+                  alt="Голографический вентилятор с изображением птицы" 
+                  className="w-full max-w-md object-contain rounded-lg shadow-lg" 
                 />
               </div>
             </div>
